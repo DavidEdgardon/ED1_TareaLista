@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ASUS/CLionProjects/ED1Lista/Arbol.cpp
+iostream
+-
+Arbol.h
+C:/Users/ASUS/CLionProjects/ED1Lista/Arbol.h
+
+C:/Users/ASUS/CLionProjects/ED1Lista/Arbol.h
+Fruta.h
+C:/Users/ASUS/CLionProjects/ED1Lista/Fruta.h
+
+C:/Users/ASUS/CLionProjects/ED1Lista/Fruta.h
+
+C:/Users/ASUS/CLionProjects/ED1Lista/main.cpp
+iostream
+-
+Arbol.h
+C:/Users/ASUS/CLionProjects/ED1Lista/Arbol.h
+
